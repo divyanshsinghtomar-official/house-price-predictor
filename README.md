@@ -38,8 +38,6 @@ Production-ready ML pipeline for house price prediction. Goes beyond accuracy wi
 - ✅ SHAP Explainability (global + local)
 - ✅ Publication-ready plots
 
-> *Recruiters love explainability — it shows you think about production, not just accuracy.*
-
 ---
 
 ## 📊 Dataset
